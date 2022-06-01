@@ -1,0 +1,23 @@
+
+
+ 
+ body {
+    --bs-body-font-family: var(--bs-font-monospace);
+    --bs-body-line-height: 1.4;
+    --bs-body-bg: var(--bs-gray-100);
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: red;
+  }
+  .header {
+    padding: 20px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  span{ display:block; width:100%; text-align:center}
